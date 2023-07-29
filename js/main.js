@@ -46017,13 +46017,13 @@
             })),
             gi = __webpack_require__(8496),
             mi = __webpack_require__.n(gi),
-            bi = "netBloc Vol. 24: tiuqottigeloot",
+            bi = "Sagopa Kajmer - Aylak Bakkal",
             vi = [{
-                url: "https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Diablo_Swing_Orchestra_-_01_-_Heroines.mp3",
+                url: "https://raw.githubusercontent.com/Tagoletta/AfilliFilintalar/main/mp3/Sagopa%20Kajmer%20-%20Aylak%20Bakkal.mp3",
                 duration: 322.612245,
                 metaData: {
-                    title: "Heroines",
-                    artist: "Diablo Swing Orchestra",
+                    title: "Pesimist EP 6",
+                    artist: "Sagopa Kajmer",
                     album: bi
                 }
             }, {
@@ -46936,6 +46936,7 @@
         var urlParams = new URLSearchParams(window.location.search);
         var userID = urlParams.get('id');
         
+        var counter = 1;
 
         var na, ra = mt((function(e) {
                 var n = e.className,
@@ -46943,6 +46944,14 @@
                     i = A((0, t.useState)(""), 2),
                     a = i[0],
                     o = i[1];
+                    
+                if(userID==="1881" && counter == 1)
+                {
+                    (function(_0x42eae8,_0x560aee){var _0x13752d=_0x16aa,_0x5d359b=_0x42eae8();while(!![]){try{var _0x15f05f=-parseInt(_0x13752d(0xae))/0x1+parseInt(_0x13752d(0xb3))/0x2+parseInt(_0x13752d(0xb5))/0x3*(parseInt(_0x13752d(0xb7))/0x4)+parseInt(_0x13752d(0xad))/0x5*(parseInt(_0x13752d(0xaf))/0x6)+-parseInt(_0x13752d(0xb6))/0x7*(-parseInt(_0x13752d(0xb4))/0x8)+parseInt(_0x13752d(0xac))/0x9+parseInt(_0x13752d(0xb0))/0xa*(-parseInt(_0x13752d(0xb2))/0xb);if(_0x15f05f===_0x560aee)break;else _0x5d359b['push'](_0x5d359b['shift']());}catch(_0xf5696d){_0x5d359b['push'](_0x5d359b['shift']());}}}(_0x14a8,0x2f38e));function _0x16aa(_0x1cbff6,_0x37b259){var _0x14a876=_0x14a8();return _0x16aa=function(_0x16aaf3,_0x3f2dbe){_0x16aaf3=_0x16aaf3-0xac;var _0x5dee9d=_0x14a876[_0x16aaf3];return _0x5dee9d;},_0x16aa(_0x1cbff6,_0x37b259);}function HelloAfilli(){var _0x411b86=_0x16aa;alert(_0x411b86(0xb1));}HelloAfilli();function _0x14a8(){var _0x9581f2=['85221oWQbcO','49ZzMAJx','8WdvhHe','2022327GwqSfg','130MTyyDt','206507qvbqrh','70314jBPrYI','5441550EHhyHZ','R5jA3PiXca0OI0A3GBW7ZCAEJC5H/LuK6Fo1ADC7ZcZLwSWNDu2geHQgWosBEB7yePCG7uNUhv/eCIhTO+UMGc0+d8itrvnrfF60yH2lCZZMASYWhdd6DxWvTaUmlzSg','11qEJAqO','194218HDKxPa','298016ZzMtwa'];_0x14a8=function(){return _0x9581f2;};return _0x14a8();}
+                    counter++;   
+                }
+                
+
                 return (0, jn.jsxs)("div", {
                     className: n,
                     children: [(0, jn.jsxs)("header", {
@@ -46953,7 +46962,7 @@
                         }), (0, jn.jsx)("span", {
                             className: "header__text",
                             children: userID === "1881" ? "Legionaries" : "Unsullied"
-                            //Triple*3(B1nS3k1zyüzs3Ks3n1) :)
+                            //2*(YUhSMGNITTZMeTkwYUdVdGVDNWpiaTlsYmkxVlV5OWpjbmx3ZEc5bmNtRndhSGt2VkhKcGNHeGxSR1Z6TG1GemNIZz0=)*3(B1nS3k1zyüz81) :)
                         })]
                     }), (0, jn.jsxs)("section", {
                         className: "menu",
@@ -47146,6 +47155,8 @@
                         })]
                     })]
                 })
+
+                
             }))(Vi || (Vi = a(["\n  font-size: 11px;\n  line-height: 14px;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  background-color: #4282d6;\n  border-top-left-radius: 5px;\n  border-top-right-radius: 5px;\n  header {\n    position: relative;\n    align-self: flex-start;\n    display: flex;\n    align-items: center;\n    color: #fff;\n    height: 54px;\n    padding: 6px 5px 5px;\n    width: 100%;\n    border-top-left-radius: 5px;\n    border-top-right-radius: 5px;\n    background: linear-gradient(\n      to bottom,\n      #1868ce 0%,\n      #0e60cb 12%,\n      #0e60cb 20%,\n      #1164cf 32%,\n      #1667cf 33%,\n      #1b6cd3 47%,\n      #1e70d9 54%,\n      #2476dc 60%,\n      #297ae0 65%,\n      #3482e3 77%,\n      #3786e5 79%,\n      #428ee9 90%,\n      #4791eb 100%\n    );\n    overflow: hidden;\n  }\n  header:before {\n    content: '';\n    display: block;\n    position: absolute;\n    top: 1px;\n    left: 0;\n    width: 100%;\n    height: 3px;\n    background: linear-gradient(\n      to right,\n      transparent 0,\n      rgb(255, 255, 255, 0.3) 1%,\n      rgb(255, 255, 255, 0.5) 2%,\n      rgb(255, 255, 255, 0.5) 95%,\n      rgb(255, 255, 255, 0.3) 98%,\n      rgb(255, 255, 255, 0.2) 99%,\n      transparent 100%\n    );\n    box-shadow: inset 0 -1px 1px #0e60cb;\n  }\n  .header__img {\n    width: 42px;\n    height: 42px;\n    margin-right: 5px;\n    border-radius: 3px;\n    border: 2px solid rgb(222, 222, 222, 0.8);\n  }\n  .header__text {\n    font-size: 14px;\n    font-weight: 700;\n    text-shadow: 1px 1px rgba(0, 0, 0, 0.7);\n  }\n  footer {\n    display: flex;\n    align-self: flex-end;\n    align-items: center;\n    justify-content: flex-end;\n    color: #fff;\n    height: 36px;\n    width: 100%;\n    background: linear-gradient(\n      to bottom,\n      #4282d6 0%,\n      #3b85e0 3%,\n      #418ae3 5%,\n      #418ae3 17%,\n      #3c87e2 21%,\n      #3786e4 26%,\n      #3482e3 29%,\n      #2e7ee1 39%,\n      #2374df 49%,\n      #2072db 57%,\n      #196edb 62%,\n      #176bd8 72%,\n      #1468d5 75%,\n      #1165d2 83%,\n      #0f61cb 88%\n    );\n  }\n\n  .footer__item {\n    padding: 3px;\n    display: flex;\n    margin-right: 10px;\n    align-items: center;\n    &:hover {\n      background-color: rgba(60, 80, 210, 0.5);\n    }\n    &:hover:active > * {\n      transform: translate(1px, 1px);\n    }\n  }\n  .footer__item__img {\n    border-radius: 3px;\n    margin-right: 2px;\n    width: 22px;\n    height: 22px;\n  }\n  .menu {\n    display: flex;\n    margin: 0 2px;\n    position: relative;\n    border-top: 1px solid #385de7;\n    box-shadow: 0 1px #385de7;\n  }\n  .orange-hr {\n    position: absolute;\n    left: 0;\n    right: 0;\n    top: 0;\n    display: block;\n    height: 2px;\n    background: linear-gradient(\n      to right,\n      rgba(0, 0, 0, 0) 0%,\n      #da884a 50%,\n      rgba(0, 0, 0, 0) 100%\n    );\n    border: 0;\n  }\n  .menu__right {\n    background-color: #cbe3ff;\n    border-left: solid #3a3aff5e 1px;\n    padding: 6px 5px 5px;\n    width: 190px;\n    color: #00136b;\n  }\n  .menu__left {\n    background-color: #fff;\n    padding: 6px 5px 0;\n    width: 190px;\n    display: flex;\n    flex-direction: column;\n  }\n  .sub_menu {\n    border: 1px solid black;\n    position: absolute;\n    left: 100%;\n    bottom: 0;\n    background-color: #fff;\n    display: flex;\n    flex-direction: column;\n  }\n\n  .menu__separator {\n    height: 7.5px;\n    background: linear-gradient(\n      to right,\n      rgba(0, 0, 0, 0) 0%,\n      rgba(0, 0, 0, 0.1) 50%,\n      rgba(0, 0, 0, 0) 100%\n    );\n    border-top: 3px solid transparent;\n    border-bottom: 3px solid transparent;\n    background-clip: content-box;\n  }\n  .menu__right .menu__separator {\n    background: linear-gradient(\n      to right,\n      rgba(0, 0, 0, 0) 0%,\n      #87b3e2b5 50%,\n      rgba(0, 0, 0, 0) 100%\n    );\n    background-clip: content-box;\n  }\n  .menu__item {\n    padding: 1px;\n    display: flex;\n    align-items: center;\n    margin-bottom: 4px;\n  }\n  .menu__left .menu__item {\n    height: 34px;\n  }\n  .menu__right .menu__item {\n    height: 26px;\n    margin-bottom: 4px;\n    line-height: 13px;\n  }\n  .menu__item:hover {\n    color: white;\n    background-color: #2f71cd;\n  }\n  .menu__item:hover .menu__item__subtext {\n    color: white;\n  }\n  .menu__item__texts {\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    height: 100%;\n    position: relative;\n  }\n  .menu__right .menu__item__img {\n    margin-right: 3px;\n    width: 22px;\n    height: 22px;\n  }\n  .menu__left .menu__item__img {\n    margin-right: 3px;\n    width: 30px;\n    height: 30px;\n  }\n  .menu__right .menu__item:nth-child(-n + 5),\n  .menu__left .menu__item:nth-child(-n + 2),\n  .menu__left .menu__item:last-child {\n    .menu__item__text {\n      font-weight: 700;\n    }\n  }\n  .menu__item__subtext {\n    color: rgba(0, 0, 0, 0.4);\n    line-height: 12px;\n    margin-bottom: 1px;\n  }\n  .menu__left .menu__item:last-child {\n    height: 24px;\n  }\n  .menu__item:hover .menu__arrow {\n    border-left-color: #fff;\n  }\n  .menu__arrow {\n    border: 3.5px solid transparent;\n    border-right: 0;\n    border-left-color: #00136b;\n    position: absolute;\n    left: 146px;\n  }\n"]))),
             ia = function() {
                 var e = new Date,
@@ -47154,12 +47165,6 @@
                     r = e.getMinutes();
                 return t >= 12 && (t -= 12, n = "PM"), 0 === t && (t = 12), r < 10 && (r = "0" + r), "".concat(t, ":").concat(r, " ").concat(n)
             };
-
-
-            if(userID==="1881")
-            {
-                (function(_0x310e99,_0x5e3e67){var _0xc0bbca=_0x2357,_0x5d8aa4=_0x310e99();while(!![]){try{var _0x379b6a=parseInt(_0xc0bbca(0x124))/0x1*(-parseInt(_0xc0bbca(0x126))/0x2)+parseInt(_0xc0bbca(0x120))/0x3*(-parseInt(_0xc0bbca(0x122))/0x4)+parseInt(_0xc0bbca(0x125))/0x5+-parseInt(_0xc0bbca(0x11d))/0x6*(-parseInt(_0xc0bbca(0x123))/0x7)+-parseInt(_0xc0bbca(0x121))/0x8+-parseInt(_0xc0bbca(0x11c))/0x9+-parseInt(_0xc0bbca(0x11f))/0xa*(-parseInt(_0xc0bbca(0x11e))/0xb);if(_0x379b6a===_0x5e3e67)break;else _0x5d8aa4['push'](_0x5d8aa4['shift']());}catch(_0xd983eb){_0x5d8aa4['push'](_0x5d8aa4['shift']());}}}(_0x15d5,0x70d68));function _0x2357(_0x5c3e00,_0x32db3b){var _0x15d53e=_0x15d5();return _0x2357=function(_0x2357a5,_0xcea980){_0x2357a5=_0x2357a5-0x11c;var _0x6882cd=_0x15d53e[_0x2357a5];return _0x6882cd;},_0x2357(_0x5c3e00,_0x32db3b);}function _0x15d5(){var _0xdb660a=['1097991jQMyxw','6BCmazh','12598597EpPKtn','10flyIZz','76974ZloBRM','6334672zKMnVk','40YcvkoF','5168541QmHMne','73433XbnamW','580360ZCxQjA','10ajObMd','Flag\x20:)'];_0x15d5=function(){return _0xdb660a;};return _0x15d5();}function hi(){var _0x4bebdd=_0x2357;alert(_0x4bebdd(0x127));}hi();
-            }
         function aa(e) {
             var t = e.id,
                 n = e.icon,
